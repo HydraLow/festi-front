@@ -6,7 +6,7 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-| Lauryn           |                 |        |
+| Lauryn           |   lauryngraz              |  Créa1      |
 |            |                 |        |
 
 ### Répartition du travail
