@@ -7,7 +7,7 @@
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
 | Lauryn           |                 |        |
-| Loïc         |  HydraLow              |        |
+| Loïc         |  HydraLow              |    Créa1    |
 
 ### Répartition du travail
 
